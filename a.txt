@@ -1,4 +1,5 @@
 a
 essa linha foi modificada no ramo Master
 essalinha foi modificada na branch "novaRamificacao"
-teste de novo commit 
+teste de novo commit
+commit 2
